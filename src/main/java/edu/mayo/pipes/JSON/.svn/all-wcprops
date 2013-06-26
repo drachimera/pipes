@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/main/!svn/ver/10332/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON
+END
+FanPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/main/!svn/ver/9274/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/FanPipe.java
+END
+Delim2JSONPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/main/!svn/ver/9274/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/Delim2JSONPipe.java
+END
+DrillPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/9274/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/DrillPipe.java
+END
+BioJavaRichSequence2JSON.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/main/!svn/ver/5137/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/BioJavaRichSequence2JSON.java
+END
+InjectIntoJsonPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/main/!svn/ver/6237/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/InjectIntoJsonPipe.java
+END
+SimpleDrillPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/4920/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/SimpleDrillPipe.java
+END
+RemoveAllJSONPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/main/!svn/ver/9080/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/RemoveAllJSONPipe.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/main/!svn/ver/5550/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/vocab
+END
+CoreAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/main/!svn/ver/5136/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/vocab/CoreAttributes.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/main/!svn/ver/5136/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/vocab/Type.java
+END
+Undefined.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/main/!svn/ver/5432/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/vocab/Undefined.java
+END
+Strand.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/main/!svn/ver/5136/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/vocab/Strand.java
+END
+ComparableObjectInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/main/!svn/ver/5550/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/vocab/ComparableObjectInterface.java
+END

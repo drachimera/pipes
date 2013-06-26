@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/main/!svn/ver/5464/projects/p/pipes/trunk/src/test/resources/testData/tools/vep
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/5464/projects/p/pipes/trunk/src/test/resources/testData/tools/vep/config.txt
+END
+vep_example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/main/!svn/ver/5464/projects/p/pipes/trunk/src/test/resources/testData/tools/vep/vep_example.txt
+END
+example.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/main/!svn/ver/5464/projects/p/pipes/trunk/src/test/resources/testData/tools/vep/example.vcf
+END
+variant_effect_output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/main/!svn/ver/5464/projects/p/pipes/trunk/src/test/resources/testData/tools/vep/variant_effect_output.txt
+END

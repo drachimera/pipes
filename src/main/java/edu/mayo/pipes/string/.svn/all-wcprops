@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/main/!svn/ver/6686/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/string
+END
+ComplementPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/main/!svn/ver/6686/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/string/ComplementPipe.java
+END
+LowercasePipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/6324/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/string/LowercasePipe.java
+END
+UppercasePipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/6324/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/string/UppercasePipe.java
+END
+ReversePipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/main/!svn/ver/6324/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/string/ReversePipe.java
+END

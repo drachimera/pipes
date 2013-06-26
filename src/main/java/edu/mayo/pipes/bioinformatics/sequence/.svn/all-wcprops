@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/main/!svn/ver/9017/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/sequence
+END
+Bed2SequencePipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/main/!svn/ver/9017/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/sequence/Bed2SequencePipe.java
+END
+Fasta2Tabix.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/main/!svn/ver/6324/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/sequence/Fasta2Tabix.java
+END

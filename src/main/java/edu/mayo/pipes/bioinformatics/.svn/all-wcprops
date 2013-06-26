@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/main/!svn/ver/10746/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics
+END
+GenbankPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/main/!svn/ver/9017/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/GenbankPipe.java
+END
+VCF2VariantPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/main/!svn/ver/10746/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/VCF2VariantPipe.java
+END
+BED2JSONPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/main/!svn/ver/10714/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/BED2JSONPipe.java
+END
+FastaPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/main/!svn/ver/6324/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/bioinformatics/FastaPipe.java
+END

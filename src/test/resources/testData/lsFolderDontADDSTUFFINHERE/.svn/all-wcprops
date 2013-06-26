@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/lsFolderDontADDSTUFFINHERE
+END
+foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/lsFolderDontADDSTUFFINHERE/foo.txt
+END
+bar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/lsFolderDontADDSTUFFINHERE/bar.txt
+END
+baz.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/lsFolderDontADDSTUFFINHERE/baz.txt
+END

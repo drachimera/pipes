@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/main/!svn/ver/10332/projects/p/pipes/trunk/src/test/resources/testData/tabix
+END
+expected.results.lookup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/main/!svn/ver/6885/projects/p/pipes/trunk/src/test/resources/testData/tabix/expected.results.lookup.txt
+END
+example.gff.gz.tbi
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/main/!svn/ver/5075/projects/p/pipes/trunk/src/test/resources/testData/tabix/example.gff.gz.tbi
+END
+example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/main/!svn/ver/5075/projects/p/pipes/trunk/src/test/resources/testData/tabix/example.txt
+END
+genes.tsv.bgz.tbi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/main/!svn/ver/5168/projects/p/pipes/trunk/src/test/resources/testData/tabix/genes.tsv.bgz.tbi
+END
+example.gff.gz
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/5075/projects/p/pipes/trunk/src/test/resources/testData/tabix/example.gff.gz
+END
+genes.tsv.bgz
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/5168/projects/p/pipes/trunk/src/test/resources/testData/tabix/genes.tsv.bgz
+END

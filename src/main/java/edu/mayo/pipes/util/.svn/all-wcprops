@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/main/!svn/ver/10333/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util
+END
+SystemProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/main/!svn/ver/9017/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util/SystemProperties.java
+END
+MD5Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/main/!svn/ver/4785/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util/MD5Util.java
+END
+FieldSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/main/!svn/ver/9696/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util/FieldSpecification.java
+END
+DelimVocab.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/main/!svn/ver/5845/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util/DelimVocab.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/main/!svn/ver/6655/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util/StringUtils.java
+END
+JSONUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/5813/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util/JSONUtil.java
+END
+GenomicObjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/main/!svn/ver/5431/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util/GenomicObjectUtils.java
+END
+ProcessHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/main/!svn/ver/9017/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util/ProcessHandler.java
+END
+VersionTimestamps.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/main/!svn/ver/4785/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/util/VersionTimestamps.java
+END

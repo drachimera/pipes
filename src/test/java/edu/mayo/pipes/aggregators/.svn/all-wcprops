@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/main/!svn/ver/6776/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/aggregators
+END
+ColumnAggregatorPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/main/!svn/ver/4792/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/aggregators/ColumnAggregatorPipeTest.java
+END
+AggregatorPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/main/!svn/ver/6776/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/aggregators/AggregatorPipeTest.java
+END
+TokenAggregatorPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/main/!svn/ver/4792/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/aggregators/TokenAggregatorPipeTest.java
+END

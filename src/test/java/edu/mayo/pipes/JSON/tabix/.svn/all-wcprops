@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/main/!svn/ver/10127/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/JSON/tabix
+END
+TabixParentPipeRegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/main/!svn/ver/10127/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/JSON/tabix/TabixParentPipeRegressionTest.java
+END
+OverlapPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/main/!svn/ver/8384/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/JSON/tabix/OverlapPipeTest.java
+END
+SameVariantPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/main/!svn/ver/9017/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/JSON/tabix/SameVariantPipeTest.java
+END
+TabixSearchPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/main/!svn/ver/6786/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/JSON/tabix/TabixSearchPipeTest.java
+END

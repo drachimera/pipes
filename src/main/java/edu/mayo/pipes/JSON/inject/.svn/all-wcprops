@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/main/!svn/ver/7609/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/inject
+END
+BaseInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/main/!svn/ver/7609/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/inject/BaseInjector.java
+END
+ColumnArrayInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/main/!svn/ver/7609/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/inject/ColumnArrayInjector.java
+END
+LiteralInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/main/!svn/ver/6150/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/inject/LiteralInjector.java
+END
+ColumnInjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/main/!svn/ver/7609/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/inject/ColumnInjector.java
+END
+JsonType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/6150/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/inject/JsonType.java
+END
+ColumnAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/main/!svn/ver/6173/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/inject/ColumnAware.java
+END
+Injector.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/6150/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/JSON/inject/Injector.java
+END

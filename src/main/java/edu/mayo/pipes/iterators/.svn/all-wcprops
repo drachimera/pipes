@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/main/!svn/ver/8298/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/iterators
+END
+FileLineIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/main/!svn/ver/7746/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/iterators/FileLineIterator.java
+END
+AnyFileLineIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/main/!svn/ver/7746/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/iterators/AnyFileLineIterator.java
+END
+GZipFileLineIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/main/!svn/ver/4870/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/iterators/GZipFileLineIterator.java
+END
+Compressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/8298/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/iterators/Compressor.java
+END

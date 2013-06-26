@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/main/!svn/ver/10714/projects/p/pipes/trunk/src/test/resources/testData
+END
+example2.gff.zip
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/main/!svn/ver/7753/projects/p/pipes/trunk/src/test/resources/testData/example2.gff.zip
+END
+example.fa
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/main/!svn/ver/6320/projects/p/pipes/trunk/src/test/resources/testData/example.fa
+END
+biorVariant.catalog.gz.tbi
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/5464/projects/p/pipes/trunk/src/test/resources/testData/biorVariant.catalog.gz.tbi
+END
+hs_ref_GRCh37.p10_chr22.fa.gz
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/main/!svn/ver/6318/projects/p/pipes/trunk/src/test/resources/testData/hs_ref_GRCh37.p10_chr22.fa.gz
+END
+example.vcf.gz
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/example.vcf.gz
+END
+sameVariant.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/5532/projects/p/pipes/trunk/src/test/resources/testData/sameVariant.vcf
+END
+freqFileExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/freqFileExample.txt
+END
+example.gff.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/7753/projects/p/pipes/trunk/src/test/resources/testData/example.gff.bz2
+END
+hs_ref_GRCh37.p9_chr17.gbs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/main/!svn/ver/4883/projects/p/pipes/trunk/src/test/resources/testData/hs_ref_GRCh37.p9_chr17.gbs
+END
+biorVariant.catalog
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/5464/projects/p/pipes/trunk/src/test/resources/testData/biorVariant.catalog
+END
+example.gff
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/example.gff
+END
+example.gff.zip
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/7753/projects/p/pipes/trunk/src/test/resources/testData/example.gff.zip
+END
+example.gbk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/example.gbk
+END
+example2.gff.gz
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/example2.gff.gz
+END
+sameVariantCatalog.tsv.gz
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/main/!svn/ver/5532/projects/p/pipes/trunk/src/test/resources/testData/sameVariantCatalog.tsv.gz
+END
+chr22.fa.tsv.bgz
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/main/!svn/ver/6322/projects/p/pipes/trunk/src/test/resources/testData/chr22.fa.tsv.bgz
+END
+vcf-format-4_0.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/main/!svn/ver/6039/projects/p/pipes/trunk/src/test/resources/testData/vcf-format-4_0.vcf
+END
+freqFileExample.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/freqFileExample.txt.gz
+END
+example.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/example.vcf
+END
+biorVariant.catalog.gz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/main/!svn/ver/5464/projects/p/pipes/trunk/src/test/resources/testData/biorVariant.catalog.gz
+END
+example2.gff.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/main/!svn/ver/7753/projects/p/pipes/trunk/src/test/resources/testData/example2.gff.bz2
+END
+bior.log
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/main/!svn/ver/5464/projects/p/pipes/trunk/src/test/resources/testData/bior.log
+END
+example.gff.gz
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/example.gff.gz
+END
+sameVariantCatalog.tsv.gz.tbi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/main/!svn/ver/5532/projects/p/pipes/trunk/src/test/resources/testData/sameVariantCatalog.tsv.gz.tbi
+END
+genestest.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/genestest.tsv
+END
+example2.gff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/main/!svn/ver/4799/projects/p/pipes/trunk/src/test/resources/testData/example2.gff
+END
+chr22.fa.tsv.bgz.tbi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/6321/projects/p/pipes/trunk/src/test/resources/testData/chr22.fa.tsv.bgz.tbi
+END

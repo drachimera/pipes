@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/main/!svn/ver/10332/projects/p/pipes/trunk/src/test/resources/testData/tabix/index
+END
+genes.GeneID.idx.h2.db
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/main/!svn/ver/10332/projects/p/pipes/trunk/src/test/resources/testData/tabix/index/genes.GeneID.idx.h2.db
+END
+genes.gene.idx.h2.db
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/main/!svn/ver/10332/projects/p/pipes/trunk/src/test/resources/testData/tabix/index/genes.gene.idx.h2.db
+END
+genes.HGNC.idx.h2.db
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/main/!svn/ver/10332/projects/p/pipes/trunk/src/test/resources/testData/tabix/index/genes.HGNC.idx.h2.db
+END

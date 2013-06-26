@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/main/!svn/ver/10746/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes
+END
+ExecPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/9272/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/ExecPipe.java
+END
+PrependStringPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/main/!svn/ver/5909/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/PrependStringPipe.java
+END
+ReplaceAllPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/4785/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/ReplaceAllPipe.java
+END
+PickPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/6324/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/PickPipe.java
+END
+HeaderPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/main/!svn/ver/4785/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/HeaderPipe.java
+END
+WritePipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/9017/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/WritePipe.java
+END
+String2HistoryPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/main/!svn/ver/9272/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/String2HistoryPipe.java
+END
+TrimPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/4785/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/TrimPipe.java
+END
+SplitPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/5081/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/SplitPipe.java
+END
+InputStreamPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/main/!svn/ver/5072/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/InputStreamPipe.java
+END
+PrintPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/4785/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/PrintPipe.java
+END
+DrainPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/4785/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/DrainPipe.java
+END
+AppendStringPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/main/!svn/ver/5840/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/AppendStringPipe.java
+END
+MergePipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/6319/projects/p/pipes/trunk/src/main/java/edu/mayo/pipes/MergePipe.java
+END

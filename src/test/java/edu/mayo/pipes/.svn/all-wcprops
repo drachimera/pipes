@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/main/!svn/ver/10714/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes
+END
+ExecPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/main/!svn/ver/8099/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/ExecPipeTest.java
+END
+HeaderPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/main/!svn/ver/4792/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/HeaderPipeTest.java
+END
+InputStreamPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/main/!svn/ver/5072/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/InputStreamPipeTest.java
+END
+SplitPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/5081/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/SplitPipeTest.java
+END
+AllPipesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/main/!svn/ver/4795/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/AllPipesTest.java
+END
+DrainPipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/4792/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/DrainPipeTest.java
+END
+MergePipeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/4919/projects/p/pipes/trunk/src/test/java/edu/mayo/pipes/MergePipeTest.java
+END
